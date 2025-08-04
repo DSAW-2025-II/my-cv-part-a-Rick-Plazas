@@ -85,3 +85,6 @@ section {
 - Experimenta con combinaciones de colores que sean agradables a la vista.
 
 ¡Buena suerte y diviértanse creando su CV!
+--------------------------------------------------------------------------------------------------------------------------
+- Nombre: Ricardo Plazas Rivas
+- CV: https://rick-plazas.github.io/cv-html-daw
